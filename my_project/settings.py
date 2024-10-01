@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-xam(sy7^#3jzre*ried1407@^v6v5ereh8#k!07jsxcqocusdk'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['8000-rourkew-djangoproject-dgtkpwzoqql.ws-eu116.gitpod.io',
                 '.herokuapp.com']
